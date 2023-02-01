@@ -1,0 +1,41 @@
+{
+   "brain":[
+      {
+         "triggers":[
+            "latte",
+            "cappuccino",
+            "iced coffee",
+            "cold brew",
+            "macchiato",
+            "hot chocolate"
+         ],
+         "responses":[
+            "Here is your coffee!",
+            "Enjoy your cup of joe :)",
+            "Have a nice drink!"
+         ]
+      },
+      {
+         "triggers":[
+            "croissant",
+            "chocolate croissant",
+            "cheese danish",
+            "raspberry danish",
+            "chocolate muffin",
+            "raisin muffin",
+            "blueberry muffin",
+            "bagel"
+         ],
+         "responses":[
+            "Here is your pastry!",
+            "Straight from the oven!",
+            "Your bread :)"
+         ]
+      }
+   ],
+   "catchall":[
+      "I'm not sure we have that!",
+      "We might not have that item!",
+      "Sorry, I don't know what that is!"
+   ]
+}
