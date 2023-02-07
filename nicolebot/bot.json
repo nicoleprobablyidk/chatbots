@@ -1,0 +1,128 @@
+{
+   "brain":[
+      {
+         "triggers":[
+            "hi",
+            "hi!",
+            "heyo",
+            "hello",
+            "hello!",
+            "yo",
+            "hey",
+            "hello there",
+            "hi there",
+            "hii",
+            "hiii",
+            "heyy",
+            "heyyy",
+            "what's up",
+            "what's up"
+         ],
+         "responses":[
+            "hihi",
+            "heyooo",
+            "what's up",
+            "yo",
+            "hello 🫡"
+         ]
+      },
+      {
+         "triggers":[
+            "songs?",
+            "songs",
+            "song",
+            "song?",
+            "songs you’ve been listening to?",
+            "songs you’ve been listening to",
+            "recent songs?",
+            "recent songs",
+            "recent song recs?",
+            "recent song recs",
+            "song recs?",
+            "song recs",
+            "songs you’ve been listening to lately",
+            "songs you’ve been listening to lately?"
+         ],
+         "responses":[
+            "i’ve been listening to c'est comme ca by paramore a bunch, im so excited for the new album aaaaaaaaaa",
+            "vulfpeck’s new schvitz album is soo good. serve somebody is always my go to for a funky time now",
+            "i’ve been listening jellyfish by sunset rollercoaster again!! i didn’t really like it when it first came out but after hearing it live it altered my brain chemistry",
+            "i’ve literally had true blue by boygenius on repeat ever since it came out 2 weeks ago. lucy dacus u are god 🙏",
+            "i keep going back to when we are together by the 1975 it’s such a satisfying song, yea if fka twigs dumped me i’d write a great sadass song too"
+         ]
+      },
+      {
+         "triggers":[
+            "shows?",
+            "shows",
+            "show",
+            "tv show",
+            "tv show?",
+            "tv shows?",
+            "tv shows",
+            "shows you’ve been watching?",
+            "shows you’ve been watching",
+            "show you’ve been watching",
+            "recent shows?",
+            "recent shows",
+            "recent show recs?",
+            "recent show recs",
+            "tv show recs?",
+            "tv show recs",
+            "show recs?",
+            "show recs",
+            "shows you’ve been watching lately",
+            "shows you’ve been watching lately?"
+         ],
+         "responses":[
+            "obviously i’ve been watching the last of us every week, watching it is like unlocking a new repressed memory every week but it's ok i love it lmao ❤️",
+            "i’m still making my way through it’s always sunny in philadelphia fnhdksj, IM ON SEASON 3 😥 i’ll finish it one day",
+            "i watched white lotus season 2 and it’s definitely superior to season 1, i do wish the different storylines interacted more like last season thoo",
+            "i watched alice in borderland season 2! it was good but there were a lot less games this season :((( disappointing cuz they’re the best part",
+            "i binged this like french supernatural mystery show called 7 lives of lea over break!!! it was so good but it ended on a cliffhanger and netflix canceled it :(("
+         ]
+      },
+      {
+         "triggers":[
+            "movies?",
+            "movies",
+            "movie",
+            "movie?",
+            "movie you’ve watched?",
+            "movie you’ve watched",
+            "recent movies?",
+            "recent movies",
+            "recent movie",
+            "recent movie?",
+            "recent movie recs",
+            "recent movie recs?",
+            "movie recs?",
+            "movie recs",
+            "movie you’ve watched lately",
+            "movie you’ve watched lately?",
+            "movie you’ve seen recently?",
+            "movie you’ve seen recently",
+            "movie you saw?",
+            "movie you saw",
+            "movie you watched",
+            "movie you watched?"
+         ],
+         "responses":[
+            "i watched the menu and it was so fun. ppl complain about too much capitalism commentary these days but imo the commentary was more on the commercialization of art 🙏",
+            "i watched glass onion! benoit blanc is literally the best character ever in the history of cinema i can’t believe they held daniel craig hostage with james bond for so long",
+            "i spontaneously watched malignant with a friend at like 2 am one night over break. we were nervous that it’d be scary but it was actually hilarious for some reason?? lmao",
+            "i watched aftersun again after it came out on streaming!! i loved it so much after seeing it at nyff and i suppose i may have shed a few tears even on the second watch 😔😔",
+            "i rewatched the social network for one of my classes and wow i hated mark zuckerberg even more than i remembered ❤️ nice movie tho"
+         ]
+      }
+   ],
+   "catchall":[
+      "???",
+      "huh",
+      "what",
+      "🤨",
+      "🤔",
+      "what??",
+      "wdym?"
+   ]
+}
