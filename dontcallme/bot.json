@@ -1,0 +1,67 @@
+{
+   "brain":[
+      {
+         "triggers":[
+            "are you in class",
+            "you in class",
+            "are you home",
+            "are you still in class"
+         ],
+         "responses":[
+            "I'm in class still",
+            "I'm in class right now",
+            "I'm still in class stupid"
+         ]
+      },
+      {
+         "triggers":[
+            "are you sleeping",
+            "are you awake",
+            "are you still in bed",
+            "are you at your dorm",
+            "you're still sleeping"
+         ],
+         "responses":[
+            "zzzz",
+            "stop calling me, I'm sleeping",
+            "it's sleep time right now",
+            "I can't hear you I'm sleeping"
+         ]
+      },
+      {
+         "triggers":[
+            "did you eat yet",
+            "what did you eat",
+            "are you gonna eat"
+         ],
+         "responses":[
+            "I'm eating right now",
+            "imfr eatinfmfg",
+            "I'm waiting in line at dunkin'",
+            "I'm using those swipes right now",
+            "I'm wasting my time at an nyu dining hall"
+         ]
+      },
+      {
+         "triggers":[
+            "where are you",
+            "what are you doing",
+            "what are you doing right now"
+         ],
+         "responses":[
+            "who knows what I'm doing right now",
+            "good question, I dont know what I'm doing right now",
+            "I never know what I'm doing",
+            "I wish I was sleeping right now",
+            "I dunno, what do you think I'm doing right now"
+         ]
+      }
+   ],
+   "catchall":[
+      "oh my god, so interesting!",
+      "wow, cool, tell me more?",
+      "dang, really and then what?",
+      "yay amazing, good for you",
+      "that's crazy, then what?"
+   ]
+}
